@@ -90,9 +90,12 @@
   <tr>
     <td>3</td> 
     <td>Alaa  Mahmoud Abd Elhafiz</td> 
-    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_One/blob/master/challenge_Alaa/assets/screenshot/Screenshot_1.png" width="150"></td> 
-    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_One/blob/master/challenge_Alaa/assets/screenshot/Screenshot_2.png" width="150"></td> 
-   
+    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_Two/blob/master/the_millionaire_two/assets/screenshots/Screenshot_1.png"  width="150"></td> 
+    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_Two/blob/master/the_millionaire_two/assets/screenshots/Screenshot_2.png" width="150"></td>
+    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_Two/blob/master/the_millionaire_two/assets/screenshots/Screenshot_3.png" width="150"></td>
+    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_Two/blob/master/the_millionaire_two/assets/screenshots/Screenshot_4.png" width="150"></td>
+    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_Two/blob/master/the_millionaire_two/assets/screenshots/Screenshot_5.png" width="150"></td>
+    <td><img src="https://github.com/mohamedElsayed-Qtoof/Chanllenge_Two/blob/master/the_millionaire_two/assets/screenshots/Screenshot_6.png" width="150"></td> 
   </tr> 
   
    
